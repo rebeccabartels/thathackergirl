@@ -517,7 +517,7 @@ body:before {
 	width: 170px;
 	height: 170px;
 	border-radius: 50%;
-	border: 3px solid #F7EDDC;
+	border: 3px solid #FEDEE4;
 	margin: 0 auto;
 }
 
@@ -1288,7 +1288,7 @@ fieldset {
 
 #footer {
 	padding: 20px 0 27px;
-	background: #d1b7b7;
+	background: #FEDEE4;
 }
 
 #footer-post {
