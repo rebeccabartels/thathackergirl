@@ -139,7 +139,7 @@ body:before {
 }
 
 .btn-dark {
-	background: #F7EDDC;
+	background: black;
 	color: #F7EDDC;
 	border: none;
 }
@@ -147,9 +147,9 @@ body:before {
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-	background: #F7EDDC !important;
+	background: white !important;
 	visibility: visible;
-	color: #F7EDDC;
+	color: black;
 }
 
 .btn.with-arrow {
@@ -1044,6 +1044,10 @@ body:before {
 
 #contact-form button {
 	margin-top: 15px;
+	color: #F7EDDC;
+	font-size: 2em;
+	line-height: 45px;
+	margin-bottom: 10px;
 }
 
 #contact i.fa {
