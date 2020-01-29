@@ -15,7 +15,7 @@
         }
 
         // Change your email hosting in contact
-        $recipient = "rebeccakbartels@gmail.com"; 
+        $recipient = "beccacode@gmail.com"; 
 
         // Set the email subject.
         $subject = "New contact from $name";
