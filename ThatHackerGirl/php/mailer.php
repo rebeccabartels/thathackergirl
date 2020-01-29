@@ -1,5 +1,7 @@
 <?php
-
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Methods: PUT, GET, POST");
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
@@ -16,7 +18,7 @@
         }
 
         // Change your email hosting in contact
-        $recipient = "beccacode@gmail.com"; 
+        $recipient = "rebeccakbartels@gmail.com"; 
 
         // Set the email subject.
         $subject = "New contact from $name";
