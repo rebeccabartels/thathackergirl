@@ -15,6 +15,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Rebecca Bartels - @ThatHackerGirl</title>
 
+
 	<!-- tab img -->
 	<link rel="icon" href="./ThatHackerGirl/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="./ThatHackerGirl/favicon.ico" type="image/x-icon">
@@ -446,6 +447,8 @@
 	<script src="./ThatHackerGirl/jquery.flexslider-min.js"></script>
 	<script src="./ThatHackerGirl/aos.js"></script>
 	<script src="./ThatHackerGirl/app.js"></script>
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+  </script>
 
 	<!-- main js -->
 	<script src="./ThatHackerGirl/main.js"></script>
